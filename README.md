@@ -58,5 +58,3 @@ This project uses a classic star schema for hospitality analytics:
 - Extend the model with seasonality and occupancy forecasting
 - Add data quality validation for date ranges and room capacity consistency
 
-## Contact
-For questions or enhancements, refer to the repository owner or project maintainer.
